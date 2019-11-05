@@ -2,7 +2,7 @@ print ('Quel est m?')
 m=int (input())
 print ('Quel est p?')
 p=int (input())
-for x in range (0,10):
-    print (x)
+print ('Quel est x=0?')
+for x in range (0,10)
 f=m*x+p
 print (f)
