@@ -1,0 +1,6 @@
+print ('Quel est votre masse en kg?')
+m=int (input())
+print ('Quel est votre taille en cm?')
+t=int (input())
+imc=m/(t*t)
+print (imc)
